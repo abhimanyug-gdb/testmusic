@@ -4,8 +4,15 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
-
+    <!--Nav menu Strings-->
     <string name="user_name">User Name</string>
     <string name="user_email">user@email.com</string>
+
+    <string name="action_music">Music</string>
+    <string name="action_shows">Shows</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_created_playlists">Created Playlists</string>
+    <string name="action_hearted_playlists">Hearted Playlists</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
