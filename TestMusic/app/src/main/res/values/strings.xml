@@ -15,4 +15,12 @@
     <string name="action_hearted_playlists">Hearted Playlists</string>
     <string name="action_settings">Settings</string>
 
+    <!-- List item Strings-->
+    <string name="song_name">Stars &amp; Moon</string>
+    <string name="song_genre">Original mix</string>
+    <string name="song_album">Leonardo Gonnelli</string>
+    <string name="song_heart_count">213</string>
+    <string name="song_play_count">4K</string>
+    <string name="song_play_time">5:00</string>
+
 </resources>
